@@ -1,4 +1,4 @@
-# PragmaticProblems
+# Pragmatic Problems
 
 > Solving the pragmatic problems using Computer Science
 
