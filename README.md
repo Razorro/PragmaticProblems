@@ -1,6 +1,6 @@
 # Pragmatic Problems
 
-> Solving the pragmatic problems using Computer Science
+> Solving the pragmatic problems using Computer Science. Do not be a copy-paster, but an engineer from questions to solutions.
 
 - I'm intrigued by how the Leaguage of Legend generate the vision from the champions, wards, ect. The very first thought is, it can be an A* algorithm, so, I'm working on it, try to make a visualized vision generator.
 
